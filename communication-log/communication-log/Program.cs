@@ -10,7 +10,10 @@ namespace communication_log
             Console.WriteLine("Hello Control");
             Console.WriteLine("Whats up");
             Console.WriteLine("Just hanging with the martians");
+            Console.WriteLine("I didnt know you speak martian");
             Console.BackgroundColor = ConsoleColor.Gray;
+            
+
         }
     }
 }
