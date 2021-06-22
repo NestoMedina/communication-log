@@ -12,8 +12,7 @@ namespace communication_log
             Console.WriteLine("Just hanging with the martians");
             Console.WriteLine("I didnt know you speak martian");
             Console.BackgroundColor = ConsoleColor.Gray;
-            
-
+            Console.WriteLine("New line");
         }
     }
 }
