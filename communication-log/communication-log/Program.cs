@@ -9,6 +9,7 @@ namespace communication_log
             Console.WriteLine("Hello Pilot!");
             Console.WriteLine("Hello Control");
             Console.WriteLine("Whats up");
+            Console.WriteLine("Just hanging with the martians");
         }
     }
 }
